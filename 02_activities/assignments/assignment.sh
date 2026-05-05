@@ -1,6 +1,7 @@
 #!/bin/bash
 set -x
 
+#hello
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
